@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcShutdownTest", "GrpcShutdownTest\GrpcShutdownTest.csproj", "{901981B0-F922-40F2-809F-E1D749320702}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcShutdownTest", "GrpcShutdownTest\GrpcShutdownTest.csproj", "{901981B0-F922-40F2-809F-E1D749320702}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9A3693BE-EC87-4099-B603-362A9B65E113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{9A3693BE-EC87-4099-B603-362A9B65E113}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
